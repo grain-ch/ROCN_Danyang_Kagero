@@ -1,0 +1,38 @@
+<AGT072_21in_MK14_Torpedo_Tubes_Quad_dead_lod2.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	AGT024_21in_MK14_Torpedo_Tubes_Quad_dead	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	AGT024_21in_MK14_Torpedo_Tubes_Quad_dead	</node>
+		<geometry>
+			<vertices>	AGT024_21in_MK14_Torpedo_Tubes_Quad_dead_lod2Shape.vertices	</vertices>
+			<primitive>	AGT024_21in_MK14_Torpedo_Tubes_Quad_dead_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+					<mfm>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD006_Mahan_1936/gun/AGT004_21in_MK14_Torpedo_Tubes_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.0866 0.0000 -0.2394	</min>
+		<max>	0.0886 0.1349 0.2327	</max>
+	</boundingBox>
+</AGT072_21in_MK14_Torpedo_Tubes_Quad_dead_lod2.visual>

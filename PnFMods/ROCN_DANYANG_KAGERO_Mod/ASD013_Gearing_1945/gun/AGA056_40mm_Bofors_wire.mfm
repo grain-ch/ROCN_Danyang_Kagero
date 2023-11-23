@@ -1,0 +1,13 @@
+<AGA056_40mm_Bofors_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGA056_40mm_Bofors_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGA056_40mm_Bofors_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGA056_40mm_Bofors_n.dds	</Texture>
+	</property>
+</AGA056_40mm_Bofors_wire.mfm>
