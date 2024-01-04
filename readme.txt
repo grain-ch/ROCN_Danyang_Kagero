@@ -10,6 +10,9 @@ Applying this mod will change the appearance of the outfitting, but will not cha
 ==============================
 Change log
 
+2024/01/04
+Color adjustment of main gun and 40mmm AA gun.
+
 2022/05/19
 removed image.jpg
 
