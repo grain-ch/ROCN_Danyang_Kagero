@@ -270,7 +270,8 @@
 			<primitive>	turret_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun_skinned	</identifier>
+					<!-- <identifier>	SHIPMAT_PBS_Gun_skinned	</identifier> -->
+					<identifier>	TL2_SHIPMAT_PBS_Gun_skinned	</identifier>
 					<mfm>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

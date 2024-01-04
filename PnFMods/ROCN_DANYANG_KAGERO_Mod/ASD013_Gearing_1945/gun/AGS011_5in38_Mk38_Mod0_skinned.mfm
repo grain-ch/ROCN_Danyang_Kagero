@@ -1,5 +1,6 @@
 <AGS011_5in38_Mk38_Mod0_skinned.mfm>
-	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<!--<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>-->
+	<fx>	shaders/materials/pbs/ship_material_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/default_ao.dds	</Texture>
