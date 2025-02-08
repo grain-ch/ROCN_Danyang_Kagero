@@ -17,16 +17,16 @@
 		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/JSD208_Kagero/ship/JSD031_Kagero_1944_n.dds	</Texture>
 	</property>
 	<property>	g_detailAlbedoInfluence
-		<Float>	0.0000	</Float>
+		<Float>	0.6000	</Float>
 	</property>
 	<property>	g_detailFadeDistance
-		<Float>	5.0000	</Float>
+		<Float>	3.0000	</Float>
 	</property>
 	<property>	g_detailGlossInfluence
-		<Float>	0.0000	</Float>
+		<Float>	1.0000	</Float>
 	</property>
 	<property>	g_detailNormalInfluence
-		<Float>	0.0000	</Float>
+		<Float>	0.4000	</Float>
 	</property>
 	<property>	g_detailScaleU
 		<Float>	32.0000	</Float>

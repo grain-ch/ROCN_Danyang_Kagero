@@ -1,7 +1,0 @@
-<AD001_Director_Mk37_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/director/lods/AD001_Director_Mk37_lod2	</parent>
-	<extent>	15.0000	</extent>
-	<nodefullVisual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/director/lods/AD001_Director_Mk37_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</AD001_Director_Mk37_lod1.model>

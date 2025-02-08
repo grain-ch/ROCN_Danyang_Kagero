@@ -1,7 +1,7 @@
 <JGM151_127mm50_Type_C_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/lods/AGS011_5in38_Mk38_Mod0_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<!--<visual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/JSD208_Kagero/gun/JGM151_127mm50_Type_C_dead.visual	</visual>-->
+	<visual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGM151_127mm50_Type_C_dead.model>

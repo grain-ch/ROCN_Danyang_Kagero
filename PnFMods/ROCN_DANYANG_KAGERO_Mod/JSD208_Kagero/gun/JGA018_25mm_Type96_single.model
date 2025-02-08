@@ -1,7 +1,7 @@
 <JGA018_25mm_Type96_single.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/lods/AGA003_20mm_Oerlikon_MK4_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGA003_20mm_Oerlikon_MK4	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<!--<visual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/JSD208_Kagero/gun/JGA018_25mm_Type96_single.visual	</visual>-->
+	<visual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/gun/AGA003_20mm_Oerlikon_MK4.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGA018_25mm_Type96_single.model>

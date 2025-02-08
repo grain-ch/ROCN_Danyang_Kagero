@@ -1,6 +1,6 @@
 <JSD031_Kagero_1944_Bow_ports.model>
-	<castsShadow>	true	</castsShadow>
-	<extent>	200.0000	</extent>
-	<nodefullVisual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/JSD208_Kagero/ship/JSD031_Kagero_1944_Bow_ports	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/ROCN_DANYANG_KAGERO_Mod/JSD208_Kagero/ship/JSD031_Kagero_1944_Bow_ports.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JSD031_Kagero_1944_Bow_ports.model>

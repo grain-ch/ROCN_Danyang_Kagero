@@ -2,7 +2,7 @@
 	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/director/default_ao.dds	</Texture>
+		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/ASD013_Gearing_1945/director/AD001_Director_Mk37_ao.dds	</Texture>
 	</property>
 	<property>	detailMap
 		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>

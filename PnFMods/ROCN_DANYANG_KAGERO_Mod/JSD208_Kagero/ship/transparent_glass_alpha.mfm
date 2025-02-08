@@ -1,11 +1,7 @@
 <transparent_glass_alpha.mfm>
-	<!-- <fx>	shaders/materials/pbs/glass_material.fx	</fx> -->
 	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
-		<Texture>	content/gameplay/common/textures/transparent_glass_alpha_a.dds	</Texture>
-	</property>
-	<property>	doubleSided
-		<Bool>	true	</Bool>
+		<Texture>	PnFMods/ROCN_DANYANG_KAGERO_Mod/JSD208_Kagero/ship/transparent_glass_alpha_a.dds	</Texture>
 	</property>
 </transparent_glass_alpha.mfm>
